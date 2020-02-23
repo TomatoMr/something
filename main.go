@@ -1,5 +1,7 @@
 package main
 
+import "something/util"
+
 func main() {
-	Hello()
+	util.Hello()
 }
